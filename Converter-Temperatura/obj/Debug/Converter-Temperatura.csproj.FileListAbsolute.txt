@@ -1,0 +1,4 @@
+c:\users\hudson\documents\visual studio 2010\Projects\Converter-Temperatura\Converter-Temperatura\bin\Converter-Temperatura.dll
+c:\users\hudson\documents\visual studio 2010\Projects\Converter-Temperatura\Converter-Temperatura\bin\Converter-Temperatura.pdb
+c:\users\hudson\documents\visual studio 2010\Projects\Converter-Temperatura\Converter-Temperatura\obj\Debug\Converter-Temperatura.dll
+c:\users\hudson\documents\visual studio 2010\Projects\Converter-Temperatura\Converter-Temperatura\obj\Debug\Converter-Temperatura.pdb
